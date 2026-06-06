@@ -121,4 +121,3 @@ The app accepts user input for all 17 features and returns:
 
 ---
 
-*Verified by Department – Dr. Hidayaturrahman, S.Kom., M.T.*
